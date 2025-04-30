@@ -7,7 +7,7 @@ data = pd.read_csv('./vehicles_us.csv')
 
 # Configurar la aplicación
 st.title("Aplicación Interactiva de Vehículos")
-st.header("Explora los datos de vehículos en venta en EE. UU.")
+st.header("Explora los datos de vehículos en venta en U.S.A.")
 
 # Crear un gráfico interactivo
 st.subheader("Gráfico de Dispersión Interactivo")
