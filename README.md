@@ -1,3 +1,6 @@
+🌐 **Lenguaje:**  
+[English version](README_EN.md)
+
 # 📡 Proyecto API de Datos
 
 ## 📌 Descripción
